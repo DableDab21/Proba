@@ -1,0 +1,17 @@
+image::attachment:TiAG5hmilHM.jpg[TiAG5hmilHM.jpg]
+
+image:TiAG5hmilHM/python.jpg[image]
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
